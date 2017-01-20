@@ -1,0 +1,1 @@
+<center><img src="../images/goaway.gif"></center>

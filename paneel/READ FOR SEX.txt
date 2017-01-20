@@ -1,0 +1,30 @@
+|  __ \ / ____|__ \ 
+| |__) | |       ) |
+|  _  /| |      / / 
+| | \ \| |____ / /_ 
+|_|  \_\\_____|____|
+
+
+Kristall-Panel RC2 (This readme best viewed in terminal !)
+
+
+The installer will automatically be directed to (from index.php), then after the install it'll tell you to delete the file if it couldn't delete itself!
+
+Everything you need to give to the public is in /frontend/
+
+Also, if you complain about not being able to edit passwords, only admins can edit senior dj's and s admins can edit s admins, if the person suspects he/she is being hacked, they can simply ban themselves by entering their pin.
+
+Need help?
+add dan@kristall-services.com to msn
+that is ONLY for errors in the panel, if you ask how to install, you shall be shanked then deleted.
+
+
+
+ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC | ENUMERIC
+
+
+
+
+
+
+YAY
