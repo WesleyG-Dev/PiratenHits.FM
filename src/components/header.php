@@ -5,8 +5,6 @@
 
   <!-- CSS -->
     <link rel="stylesheet" href="src/css/bootstrap.min.css" media="screen" title="" charset="utf-8">
-    <link rel="stylesheet" href="src/css/mdb.min.css" media="screen" title="" charset="utf-8">
-    <link rel="stylesheet" href="src/css/global.css" media="screen" title="" charset="utf-8">
 
 
     <!-- JS -->
