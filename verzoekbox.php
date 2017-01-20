@@ -46,7 +46,7 @@
                    ?>
 
                </div>
-              <audio controls="" autoplay="" style="width:100%; height:10;  background-color:#000; color:#000;" src="http://server-66.stream-server.nl:8844/listen.pls;"></audio>
+              <audio controls="" autoplay="" style="width:100%; height:10;  background-color:#000; color:#000;" src="http://server-66.stream-server.nl:8844/;"></audio>
 
                 </div>
               </div>
